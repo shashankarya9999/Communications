@@ -1,3 +1,1 @@
 # Learning Resources:
-
-1) 
