@@ -1,3 +1,3 @@
 # Communications
 
-I worked with GNUradio and a USRP device in my university, to implement various modulation schemes in communications. 
+I worked with GNUradio and a USRP device in my university and implemented various modulation schemes in communications. 
