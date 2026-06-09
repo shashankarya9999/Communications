@@ -2,9 +2,7 @@
 
 This repository contains the software architectures, digital signal processing (DSP) flowgraphs, and hardware-in-the-loop (HITL) deployment configurations for real-time generation, transmission, and validation of legacy analog modulation schemes. 
 
-Developed as a specialized research assignment under the supervision of the Head of Department (HOD) at the **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**, this project bridges theoretical communication engineering with physical, over-the-air (OTA) RF validation using Software-Defined Radios (SDRs) and laboratory-grade test equipment.
-
-The project validates theoretical signal processing models over-the-air (OTA) using Universal Software Radio Peripheral (USRP) hardware, with empirical signal verification conducted via a Vector Signal Generator (VSG) and Vector Signal Analyzer (VSA).
+Developed as a specialized research assignment under the supervision of the Head of Department (HOD) at the **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**, this project validates theoretical signal processing models over-the-air (OTA) using Universal Software Radio Peripheral (USRP) hardware, with empirical signal verification conducted via a Vector Signal Generator (VSG) and Vector Signal Analyzer (VSA).
 
 ## System Architecture & Hardware-in-the-Loop Setup
 
